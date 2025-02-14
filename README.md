@@ -17,12 +17,14 @@ If prompted by the User Account Control (UAC), click Yes to allow PowerShell to 
 Enable PowerShell Script Execution:
 
 Run the following command to allow script execution:
-Set-ExecutionPolicy Unrestricted
+
+**Set-ExecutionPolicy Unrestricted**
+
 Paste and Run the Command:
 
 Copy the following command:
 
-irm "https://github.com/RedXUK/Rocket/releases/download/optimizer/Rocket.ps1" | iex
+**irm "https://github.com/RedXUK/Rocket/releases/download/optimizer/Rocket.ps1" | iex**
 
 To paste into PowerShell, Right-Click or press Ctrl + V in the PowerShell or Terminal window
 Press Enter to execute the command
