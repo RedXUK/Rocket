@@ -21,10 +21,12 @@ Set-ExecutionPolicy Unrestricted
 Paste and Run the Command:
 
 Copy the following command:
+
 irm "https://github.com/redxuk/Rocket/raw/main/Rocket.ps1" | iex
+
 To paste into PowerShell, Right-Click or press Ctrl + V in the PowerShell or Terminal window
 Press Enter to execute the command
-This command will download and execute the Winhance application directly from GitHub.
+This command will download and execute the Rocket application directly from GitHub.
 
 Current Features 🛠️
 
